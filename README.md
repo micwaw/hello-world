@@ -3,7 +3,7 @@ Just another repository
 
 Hi there
 
-Something somehing
+The guide tutorial
 Something
 
 Formularz zgłoszeniowy
